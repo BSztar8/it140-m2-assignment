@@ -2,34 +2,26 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+This was my first experience using an IDE to write, run, and test a Python program. At first, it was a little confusing learning where everything was located, but it became easier as I worked through the assignment. Three IDE features that helped me were the code editor, integrated terminal, and Source Control. Learning how to use these features helped me better understand how programmers can write code, test their work, and keep track of changes all in one place.
 
-TODO: Replace with your introduction here.
+## Feature 1 - Code Editor
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The code editor was one of the most useful features for me because it gave me one place to view and edit the Python file. I used it to complete the TODO sections in the name_age.py file and enter the code needed to ask for a user's name and age, calculate an approximate birth year, and display the result. The editor also made the Python code easier to read because different parts of the code were displayed differently. As a beginner, this helped me see how the program was organized and made it easier to notice where I was making changes.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 - Integrated Terminal
 
-TODO: Replace with your Feature 1 paragraph here.
+The integrated terminal allowed me to run commands without leaving the IDE. I used the terminal to run my Python program and enter my name and age to make sure the program produced the expected birth year. I also used the terminal to run the provided tests for the assignment. Seeing that all five tests passed gave me confirmation that my program was working correctly. Having the terminal directly inside the IDE made testing the program easier because I could make changes to my code and immediately run it again.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 - Source Control
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+Source Control was another useful IDE feature because it helped me see which files I had changed while working on the assignment. I could see when my name_age.py file had been modified and use Source Control to prepare my changes to be committed. This helped me understand how programmers keep track of changes to their work instead of simply saving over the same file. I can see this being especially useful on larger projects where there may be many files and changes to keep organized. (Microsoft, n.d.)
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
+Completing this assignment helped me become more comfortable using an IDE and writing a basic Python program. The code editor helped me write and organize my code, the integrated terminal allowed me to run and test the program, and Source Control helped me keep track of my changes. I am still learning how all of these tools work, but using them in an actual assignment made them easier to understand. I think becoming more familiar with these features will make future programming assignments easier and help me become more confident working with Python.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Microsoft. (n.d.). Basic editing. Visual Studio Code. Retrieved August 25, 2026, from Basic editing in Visual Studio Code
+
+OpenAI. (2026). ChatGPT [Large language model].
